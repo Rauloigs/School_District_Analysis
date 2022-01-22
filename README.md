@@ -39,3 +39,5 @@ To conclude this analysis we are reviewing four important changes to the school 
 First of all *(1)* there was an important change in the average percentage of students passing math and reading. The difference was perceived uo to 30pp. In consequence of the fisrst remarkable change *(2)* the overall passing percentage also increased dramtically in the same proportion as both subjects individually. Following this chain of changes inside the THS analysis *(3)* the THS climbed places in the different analysis, and *(4)* Analysis like the School Type changed a bit but nost considarbly to attribute to it a different conclusion. 
 
 In my personal opinion I would support the fact that there was academic dishonesty in the THS. 
+
+Share this work by clicking here: https://github.com/Rauloigs/School_District_Analysis
